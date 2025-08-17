@@ -184616,7 +184616,21 @@
         "social-token"
       ]
     }
-  ],
+  {
+  "chainId": 101,
+  "address": "7wGeNkuHaZYWKLQ7bo7ni3nzL43RitwTLFAU2oyrooi",
+  "symbol": "SAC",
+  "name": "Saphir Coin",
+  "decimals": 9,
+  "logoURI": "https://i.imgur.com/Xe9mGRV.jpeg",
+  "tags": ["cryptomonnaie", "Solana", "SPL", "Saphir"],
+  "extensions": {
+    "description": "Une crypto conçue pour les échanges rapides et fluides.",
+    "website": "",
+    "twitter": "",
+    "creator": "anonymouss"
+  }
+},],
   "version": {
     "major": 0,
     "minor": 3,
